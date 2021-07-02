@@ -9,3 +9,5 @@ The above image represents the upload process. The client has a 999 bytes file a
 The segment size depends on the speed of the particular connection. Download follows similar.
 <br>
 Note : Code documentation and class diagram will be updated soon!
+<br>
+Made for network branch
